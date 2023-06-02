@@ -1,0 +1,13 @@
+!
+config t
+!
+int gig 0/1
+description gelukt
+no shutdown
+exit
+
+int gig 0/2
+description gelukt
+no shutdown
+exit
+!
