@@ -6,7 +6,7 @@ Lab netacad: Cisco DEVNET 7.0.3
 
 • Task preparation and implementation:
 
-Een devasc VM
+ Een devasc VM
 VMware voor nieuwe VM
 CSR1000v_for_VMware.ova bestand
 Csr1000v_universalk9.16.09.05.iso bestand
