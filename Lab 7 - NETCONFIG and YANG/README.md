@@ -1,10 +1,11 @@
-Lab 7 - NETCONFIG and YANG
+• Lab 7 - NETCONFIG and YANG
 
-Part 1: Install the CSR1000v VM
+• Part 1: Install the CSR1000v VM
 
 Lab netacad: Cisco DEVNET 7.0.3
 
 • Task preparation and implementation:
+
 Een devasc VM
 VMware voor nieuwe VM
 CSR1000v_for_VMware.ova bestand
@@ -15,7 +16,7 @@ Csr1000v_universalk9.16.09.05.iso bestand
 Zie Lab 7 foto’s
 
 
-Part 2: Explore YANG Models
+• Part 2: Explore YANG Models
 
 Lab netacad: Cisco DEVNET 8.3.5
 
@@ -31,7 +32,7 @@ Wget wget https://raw.githubusercontent.com/YangModels/yang/master/vendor/cisco/
 • Task verification:
 Zie Lab 7 foto’s
 
-Part 3: Use NETCONF to Access an IOS XE Device
+• Part 3: Use NETCONF to Access an IOS XE Device
 
 Lab netacad: cisco DEVNET 8.3.6
 
@@ -115,7 +116,7 @@ print(xml.dom.minidom.parseString(netconf_reply.xml).toprettyxml())
 Zie Lab 7 foto’s
 
 
-Part 4: Use RESTCONF to Access an IOS XE Device
+• Part 4: Use RESTCONF to Access an IOS XE Device
 
 Lab netacad: cisco DEVNET 8.3.7
 
